@@ -1,5 +1,5 @@
 aid: animal-crossing-new-horizons
-name: Animal Crossing: New Horizons
+name: "Animal Crossing: New Horizons"
 description: "API for critters, fossils, art, music, furniture and villagers"
 url: http://acnhapi.com/
 specificationVersion: '0.20'
@@ -13,7 +13,7 @@ tags:
   - Games And Comics
   - Public APIs
 apis:
-  - name: Animal Crossing: New Horizons
+  - name: "Animal Crossing: New Horizons"
     description: "API for critters, fossils, art, music, furniture and villagers"
     humanURL: http://acnhapi.com/
     baseURL: http://acnhapi.com/

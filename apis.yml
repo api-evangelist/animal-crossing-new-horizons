@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: http://acnhapi.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/animal-crossing-new-horizons-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/animal-crossing-new-horizons-domain-security.yml
   - type: Website
     url: http://acnhapi.com/
   - type: PublicAPIsListing
